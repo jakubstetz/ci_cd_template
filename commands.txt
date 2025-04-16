@@ -1,0 +1,16 @@
+## Install Prettier (JavaScript and frontend linting)
+`npm install --save-dev prettier`
+
+## Install Black (Python linting)
+`pip install black`
+
+## Install Commitizen
+`pip install commitizen`
+`cz init`
+
+## Install Pre-commit
+`pip install pre-commit`
+`pre-commit install --hook-type commit-msg --hook-type pre-push`
+
+# Run all pre-commit hooks manually
+pre-commit run --all-files
