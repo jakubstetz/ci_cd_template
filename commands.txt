@@ -1,8 +1,14 @@
 ## Install Prettier (JavaScript and frontend linting)
 `npm install --save-dev prettier`
 
+## Run Prettier manually
+`npx prettier --write .
+
 ## Install Black (Python linting)
 `pip install black`
+
+## Run Black manually
+`black .`
 
 ## Install Commitizen
 `pip install commitizen`
