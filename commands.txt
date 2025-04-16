@@ -5,17 +5,17 @@
 `npx prettier --write .
 
 ## Install Black (Python linting)
-`pip install black`
+`pip3 install black`
 
 ## Run Black manually
 `black .`
 
 ## Install Commitizen
-`pip install commitizen`
+`pip3 install commitizen`
 `cz init`
 
 ## Install Pre-commit
-`pip install pre-commit`
+`pip3 install pre-commit`
 `pre-commit install --hook-type commit-msg --hook-type pre-push`
 
 # Run all pre-commit hooks manually
